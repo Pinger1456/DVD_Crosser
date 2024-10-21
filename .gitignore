@@ -1,0 +1,72 @@
+# Исключить папку проекта PyCharm
+.idea/
+
+# Исключить виртуальные окружения
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Исключить файлы кэша Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Исключить файлы логов
+*.log
+
+# Исключить файлы базы данных
+*.sqlite3
+
+# Исключить файлы виртуальной среды для Jupyter
+.ipynb_checkpoints/
+
+# Исключить дампы
+*.dump
+
+# Исключить конфигурации и данные системы (кэш, логи)
+.DS_Store
+Thumbs.db
+
+# Исключить настройки редакторов (VS Code и другие)
+.vscode/
+*.swp
+*~
+
+# Исключить пакеты и зависимости
+*.egg-info/
+.eggs/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+wheelhouse/
+*.whl
+
+# Исключить результаты тестов
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage/
+
+# Исключить служебные файлы среды разработки
+*.iml
+*.ipr
+*.iws
+
+# Исключить временные файлы ОС и среды разработки
+*.bak
+*.tmp
+*.old
+*.log.*
+*.out
+*.pid
+*.seed
+*.state
