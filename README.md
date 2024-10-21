@@ -1,6 +1,6 @@
 
 # DVD Logo Animation Project
-![DVD Animation](https://imgur.com/a/fEBUHaP)
+![DVD Animation](<blockquote class="imgur-embed-pub" lang="en" data-id="a/fEBUHaP" data-context="false" ><a href="//imgur.com/a/fEBUHaP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
 
 This project simulates the bouncing DVD logo animation, a nostalgic representation for many who remember the idle screen on DVD players. The logo changes direction when it hits the screen edges and also changes color when it bounces off the screen's corners.
 
